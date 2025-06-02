@@ -1,0 +1,70 @@
+{
+  "query": "Show me all articles by Jane Doe",
+  "results": [
+    {
+      "author": "Jane Doe",
+      "published_date": "2025-05-01T23:12:07.000000Z",
+      "published_day": 1,
+      "published_month": 5,
+      "published_year": 2025,
+      "tags": [
+        "#IPL2025",
+        "#MumbaiIndians",
+        "#RajasthanRoyals"
+      ],
+      "title": "IPL 2025: Ruthless MI top table, knock Rajasthan Royals out of playoffs race"
+    },
+    {
+      "author": "Jane Doe",
+      "published_date": "2025-05-01T21:53:11.000000Z",
+      "published_day": 1,
+      "published_month": 5,
+      "published_year": 2025,
+      "tags": [
+        "#VaibhavSuryavanshi",
+        "#IPL2025",
+        "#CricketForm"
+      ],
+      "title": "IPL 2025: Vaibhav Suryavanshi out for 2-ball duck days after 35-ball hundred"
+    },
+    {
+      "author": "Jane Doe",
+      "published_date": "2025-05-01T20:36:03.000000Z",
+      "published_day": 1,
+      "published_month": 5,
+      "published_year": 2025,
+      "tags": [
+        "#VaibhavSuryavanshi",
+        "#SunilGavaskar",
+        "#IPL2025"
+      ],
+      "title": "IPL 2025: Don't praise Vaibhav Suryavanshi to the skies, says Sunil Gavaskar"
+    },
+    {
+      "author": "Jane Doe",
+      "published_date": "2025-05-01T21:13:15.000000Z",
+      "published_day": 1,
+      "published_month": 5,
+      "published_year": 2025,
+      "tags": [
+        "#RohitSharma",
+        "#MumbaiIndians",
+        "#IPLRecords"
+      ],
+      "title": "IPL: Rohit Sharma completes 6,000 runs for MI, joins Virat Kohli in unique list"
+    },
+    {
+      "author": "Jane Doe",
+      "published_date": "2025-05-01T22:30:24.000000Z",
+      "published_day": 1,
+      "published_month": 5,
+      "published_year": 2025,
+      "tags": [
+        "#ShubmanGill",
+        "#GujaratTitans",
+        "#IPLInjuries"
+      ],
+      "title": "Shubman Gill likely to play vs SRH despite back spasm scare, confirms GT's Vikram Solanki"
+    }
+  ]
+}
